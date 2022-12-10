@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joseph Gatto"
+title: "Publications"
 excerpt: "Ph.D. Student at Dartmouth College"
 author_profile: true
 redirect_from: 
