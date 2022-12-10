@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Joseph Gatto"
+excerpt: "Ph.D. Student at Dartmouth College"
 author_profile: true
 redirect_from: 
   - /about/
