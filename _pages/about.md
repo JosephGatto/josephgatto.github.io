@@ -15,6 +15,7 @@ Joseph Gatto, Madhusudan Basak, and Sarah M. Preum
 
 - [Identifying the Perceived Severity of Patient-Generated Telemedical Queries Regarding COVID: Developing and Evaluating a Transfer Learning–Based Solution (2022)](https://medinform.jmir.org/2022/9/e37770)
 Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum
+-> [Data](https://github.com/Persist-Lab/TelemedicalQueryClassification)
 
 - [HealthE: Classifying Entities in Online Textual Health Advice (2022)](https://arxiv.org/pdf/2210.03246.pdf) (preprint)
 Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum
