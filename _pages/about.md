@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Publications"
+title: ""
 excerpt: "Ph.D. Student at Dartmouth College"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+## Publications
+
 [Scope of Pre-trained Language Models for Detecting Conflicting Health Information (2022)](https://arxiv.org/pdf/2209.11102.pdf)
 Gatto, Joseph, Madhusudan Basak, and Sarah M. Preum.
+
