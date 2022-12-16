@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-- Jan 2018 - Sept 2020: ML Intern @ NASA Jet Propulsion Laboratory 
+- Jan 2018 - Sept 2020: Machine Learning Research Intern @ NASA Jet Propulsion Laboratory 
 - NSF REU Fellow: Summer 2017
   
 
