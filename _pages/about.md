@@ -9,16 +9,23 @@ redirect_from:
 ---
 
 ## Publications
+### NLP
 
-- [Scope of Pre-trained Language Models for Detecting Conflicting Health Information (2022)](https://arxiv.org/pdf/2209.11102.pdf)
-Joseph Gatto, Madhusudan Basak, and Sarah M. Preum
+- [Scope of Pre-trained Language Models for Detecting Conflicting Health Information](https://ojs.aaai.org/index.php/ICWSM/article/view/22140)
+Joseph Gatto, Madhusudan Basak, and Sarah M. Preum. Proceedings of the International AAAI Conference on Web and Social Media (2023)
+
+- [HealthE: Recognizing Health Advice & Entities in Online Health Communities](https://ojs.aaai.org/index.php/ICWSM/article/view/22210) 
+Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum. Proceedings of the International AAAI Conference on Web and Social Media (2023)
+
+-  [The Scope of In-Context Learning for the Extraction of Medical Temporal Constraints](https://arxiv.org/abs/2303.09366). Seegmiller P, Gatto J, Basak M, Cook D, Ghasemzadeh H, Stankovic J, Preum SM. The 6th International Workshop on Health Natural Language Processing (HealthNLP 2023) (ICHI 2023 workshop).
 
 - [Identifying the Perceived Severity of Patient-Generated Telemedical Queries Regarding COVID: Developing and Evaluating a Transfer Learning–Based Solution (2022)](https://medinform.jmir.org/2022/9/e37770)
 Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum
 -> [Data](https://github.com/Persist-Lab/TelemedicalQueryClassification)
 
-- [HealthE: Classifying Entities in Online Textual Health Advice (2022)](https://arxiv.org/pdf/2210.03246.pdf) (preprint)
-Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum
+
+### Robotics
+- [A Hierarchical Multi-ASV Control System Framework for Adversarial ASV Detainment](https://dcslgatech.github.io/iros22-multi-agent-workshop/contributed_papers/IROS22-DMMAS_paper_6832.pdf). Jeong, M., Blanchet, J., Gatto, J., & Li, A. Q.  DMMAS Workshop at IROS 2022. 
 
 - [Virtual IR Sensing for Planetary Rovers: Improved Terrain Classification and Thermal Inertia Estimation (2020)](https://ras.papercept.net/images/temp/IROS/files/3127.pdf) 
 Yumi Iwashita, Kazuto Nakashima, Joseph Gatto, Shoya Higa, Adrian Stoica, Norris Khoo and Ryo Kurazume
