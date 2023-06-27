@@ -26,10 +26,14 @@ Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum
 
 ### Robotics
 - [A Hierarchical Multi-ASV Control System Framework for Adversarial ASV Detainment](https://dcslgatech.github.io/iros22-multi-agent-workshop/contributed_papers/IROS22-DMMAS_paper_6832.pdf). Jeong, M., Blanchet, J., Gatto, J., & Li, A. Q.  DMMAS Workshop at IROS 2022. 
-
 - [Virtual IR Sensing for Planetary Rovers: Improved Terrain Classification and Thermal Inertia Estimation (2020)](https://ras.papercept.net/images/temp/IROS/files/3127.pdf) 
 Yumi Iwashita, Kazuto Nakashima, Joseph Gatto, Shoya Higa, Adrian Stoica, Norris Khoo and Ryo Kurazume
 
+
+### Pre-Prints
+- [ActSafe: Predicting Violations of Medical Temporal Constraints for Medication Adherence](https://arxiv.org/pdf/2301.07051.pdf) Seegmiller, P., Gatto, J., Mamun, A., Ghasemzadeh, H., Cook, D., Stankovic, J. and Preum, S.M., 2023
+- [Theme-driven Keyphrase Extraction to Analyze Social Media Discourse](https://arxiv.org/pdf/2301.11508.pdf) Romano, W., Sharif, O., Basak, M., Gatto, J. and Preum, S., 2023
+- [Single sample feature importance: an interpretable algorithm for low-level feature analysis](https://arxiv.org/abs/1911.11901) Gatto, J., Lanka, R., Iwashita, Y. and Stoica, A., 2019
 
 ## Blog Posts on Medium! 
 
