@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 ## Publications
-### NLP
+### NLP 
+
+- [Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity](https://arxiv.org/pdf/2309.06541.pdf)
+Joseph Gatto, Omar Sharif, Parker Seegmiller, Phillip Bohlman, and Sarah M. Preum. [preprint] (2023)
 
 - [Scope of Pre-trained Language Models for Detecting Conflicting Health Information](https://ojs.aaai.org/index.php/ICWSM/article/view/22140)
 Joseph Gatto, Madhusudan Basak, and Sarah M. Preum. Proceedings of the International AAAI Conference on Web and Social Media (2023)
@@ -18,6 +21,8 @@ Joseph Gatto, Madhusudan Basak, and Sarah M. Preum. Proceedings of the Internati
 Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum. Proceedings of the International AAAI Conference on Web and Social Media (2023)
 
 -  [The Scope of In-Context Learning for the Extraction of Medical Temporal Constraints](https://arxiv.org/abs/2303.09366). Seegmiller P, Gatto J, Basak M, Cook D, Ghasemzadeh H, Stankovic J, Preum SM. The 6th International Workshop on Health Natural Language Processing (HealthNLP 2023) (ICHI 2023 workshop).
+
+- [ActSafe: Predicting Violations of Medical Temporal Constraints for Medication Adherence](https://arxiv.org/pdf/2301.07051.pdf) Seegmiller, P., Gatto, J., Mamun, A., Ghasemzadeh, H., Cook, D., Stankovic, J. and Preum, S.M., [preprint] (2023)
 
 - [Identifying the Perceived Severity of Patient-Generated Telemedical Queries Regarding COVID: Developing and Evaluating a Transfer Learning–Based Solution (2022)](https://medinform.jmir.org/2022/9/e37770)
 Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum
@@ -32,8 +37,7 @@ Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum
 Yumi Iwashita, Kazuto Nakashima, Joseph Gatto, Shoya Higa, Adrian Stoica, Norris Khoo and Ryo Kurazume
 
 
-### Pre-Prints
-- [ActSafe: Predicting Violations of Medical Temporal Constraints for Medication Adherence](https://arxiv.org/pdf/2301.07051.pdf) Seegmiller, P., Gatto, J., Mamun, A., Ghasemzadeh, H., Cook, D., Stankovic, J. and Preum, S.M., 2023
+### Undergrad Thesis 
 - [Single sample feature importance: an interpretable algorithm for low-level feature analysis](https://arxiv.org/abs/1911.11901) Gatto, J., Lanka, R., Iwashita, Y. and Stoica, A., 2019
 
 ## Blog Posts on Medium! 
