@@ -11,8 +11,11 @@ redirect_from:
 ## Publications
 ### NLP 
 
+- [Chain-of-Thought Embeddings for Stance Detection on Social Media](https://arxiv.org/pdf/2310.19750.pdf)
+Joseph Gatto, Omar Sharif, and Sarah M. Preum. Accepted at EMNLP Findings 2023
+
 - [Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity](https://arxiv.org/pdf/2309.06541.pdf)
-Joseph Gatto, Omar Sharif, Parker Seegmiller, Phillip Bohlman, and Sarah M. Preum. [preprint] (2023)
+Joseph Gatto, Omar Sharif, Parker Seegmiller, Phillip Bohlman, and Sarah M. Preum. Accepted at EMNLP Workshop: Generation, Evaluation & Metrics (2023)
 
 - [Scope of Pre-trained Language Models for Detecting Conflicting Health Information](https://ojs.aaai.org/index.php/ICWSM/article/view/22140)
 Joseph Gatto, Madhusudan Basak, and Sarah M. Preum. Proceedings of the International AAAI Conference on Web and Social Media (2023)
@@ -25,7 +28,7 @@ Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum. Proceedin
 - [ActSafe: Predicting Violations of Medical Temporal Constraints for Medication Adherence](https://arxiv.org/pdf/2301.07051.pdf) Seegmiller, P., Gatto, J., Mamun, A., Ghasemzadeh, H., Cook, D., Stankovic, J. and Preum, S.M., [preprint] (2023)
 
 - [Identifying the Perceived Severity of Patient-Generated Telemedical Queries Regarding COVID: Developing and Evaluating a Transfer Learning–Based Solution (2022)](https://medinform.jmir.org/2022/9/e37770)
-Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum
+Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum. Journal of Medical Informatics (2022)
 -> [Data](https://github.com/Persist-Lab/TelemedicalQueryClassification)
 
 - [Theme-driven Keyphrase Extraction to Analyze Social Media Discourse](https://arxiv.org/pdf/2301.11508.pdf) Romano, W., Sharif, O., Basak, M., Gatto, J. and Preum, S., 2023
