@@ -24,7 +24,7 @@ Joseph Gatto, Madhusudan Basak, and Sarah M. Preum. Proceedings of the Internati
 Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum. Proceedings of the International AAAI Conference on Web and Social Media (2023)
 
 - [Not Enough Labeled Data? Just Add Semantics: A Data-Efficient Method for Inferring Online Health Texts](https://arxiv.org/abs/2309.09877)
-Joseph Gatto, Sarah M. Preum (Pre-Print)
+Joseph Gatto, Sarah M. Preum (2023) [Pre-Print]
 
 - [Identifying the Perceived Severity of Patient-Generated Telemedical Queries Regarding COVID: Developing and Evaluating a Transfer Learning–Based Solution (2022)](https://medinform.jmir.org/2022/9/e37770)
 Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum. Journal of Medical Informatics (2022)
