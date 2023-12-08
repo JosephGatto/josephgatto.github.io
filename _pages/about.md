@@ -11,8 +11,7 @@ redirect_from:
 ## Publications
 ### NLP 
 
-- [Chain-of-Thought Embeddings for Stance Detection on Social Media](https://arxiv.org/pdf/2310.19750.pdf)
-Joseph Gatto, Omar Sharif, and Sarah M. Preum. Accepted at EMNLP Findings 2023
+- [Chain-of-Thought Embeddings for Stance Detection on Social Media](https://aclanthology.org/2023.findings-emnlp.273) (Gatto et al., EMNLP Findings 2023)
 
 - [Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity](https://arxiv.org/pdf/2309.06541.pdf)
 Joseph Gatto, Omar Sharif, Parker Seegmiller, Phillip Bohlman, and Sarah M. Preum. Accepted at EMNLP Workshop: Generation, Evaluation & Metrics (2023)
