@@ -11,6 +11,10 @@ redirect_from:
 ## Publications
 ### NLP 
 
+- [Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data](https://arxiv.org/abs/2403.03304) (Joseph Gatto, Parker Seegmiller, Omar Sharif, Sarah M. Preum, Pre-Print 2024)
+
+- [Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse](https://arxiv.org/abs/2403.03304) (Joseph Gatto, Madhusudan Basak, Yash Srivastava, Philip Bohlman, Sarah M. Preum, Pre-Print 2024)
+
 - [Chain-of-Thought Embeddings for Stance Detection on Social Media](https://aclanthology.org/2023.findings-emnlp.273) (Gatto et al., EMNLP Findings 2023)
 
 - [Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity](https://arxiv.org/pdf/2309.06541.pdf)
