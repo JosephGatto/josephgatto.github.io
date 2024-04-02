@@ -15,6 +15,8 @@ redirect_from:
 
 - [Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse](https://arxiv.org/abs/2403.03336) (Joseph Gatto, Madhusudan Basak, Yash Srivastava, Philip Bohlman, Sarah M. Preum, Pre-Print 2024)
 
+- [Do LLMs Find Human Answers To Fact-Driven Questions Perplexing? A Case Study on Reddit](https://arxiv.org/abs/2404.01147) (Parker Seegmiller, Joseph Gatto, Omar Sharif, Madhusudan Basak, Sarah Masud Preum, Pre-Print 2024)
+
 - [Chain-of-Thought Embeddings for Stance Detection on Social Media](https://aclanthology.org/2023.findings-emnlp.273) (Gatto et al., EMNLP Findings 2023)
 
 - [Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity](https://arxiv.org/pdf/2309.06541.pdf)
