@@ -11,7 +11,7 @@ redirect_from:
 ## Publications
 ### NLP 
 
-- [Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data](https://arxiv.org/abs/2403.03304) (Joseph Gatto, Parker Seegmiller, Omar Sharif, Sarah M. Preum, Pre-Print 2024)
+- [Large Language Models for Document-Level Event-Argument Data Augmentation for Challenging Role Types](https://arxiv.org/abs/2403.03304) (Joseph Gatto, Parker Seegmiller, Omar Sharif, Sarah M. Preum, Pre-Print 2024)
 
 - [Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse](https://arxiv.org/abs/2403.03336) (Joseph Gatto, Madhusudan Basak, Yash Srivastava, Philip Bohlman, Sarah M. Preum, Pre-Print 2024)
 
@@ -19,7 +19,7 @@ redirect_from:
 
 - [Chain-of-Thought Embeddings for Stance Detection on Social Media](https://aclanthology.org/2023.findings-emnlp.273) (Gatto et al., EMNLP Findings 2023)
 
-- [Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity](https://arxiv.org/pdf/2309.06541.pdf)
+- [Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity](https://aclanthology.org/2023.gem-1.23/)
 Joseph Gatto, Omar Sharif, Parker Seegmiller, Phillip Bohlman, and Sarah M. Preum. Accepted at EMNLP Workshop: Generation, Evaluation & Metrics (2023)
 
 - [Scope of Pre-trained Language Models for Detecting Conflicting Health Information](https://ojs.aaai.org/index.php/ICWSM/article/view/22140)
