@@ -15,7 +15,7 @@ redirect_from:
 
 - [Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse](https://arxiv.org/abs/2403.03336) (Joseph Gatto, Madhusudan Basak, Yash Srivastava, Philip Bohlman, Sarah M. Preum, Pre-Print 2024)
 
-- [Theme-driven Keyphrase Extraction to Analyze Social Media Discourse](https://arxiv.org/pdf/2301.11508.pdf) Romano, W., Sharif, O., Basak, M., Gatto, J. and Preum, S., ICWSM 2024
+- [Theme-driven Keyphrase Extraction to Analyze Social Media Discourse](https://ojs.aaai.org/index.php/ICWSM/article/view/31391/33551) Romano, W., Sharif, O., Basak, M., Gatto, J. and Preum, S., ICWSM 2024
 
 - [Do LLMs Find Human Answers To Fact-Driven Questions Perplexing? A Case Study on Reddit](https://arxiv.org/abs/2404.01147) (Parker Seegmiller, Joseph Gatto, Omar Sharif, Madhusudan Basak, Sarah Masud Preum, REAL-INFO Workshop ICWSM 2024)
 
