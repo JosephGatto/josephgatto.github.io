@@ -15,6 +15,8 @@ redirect_from:
 
 - [Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse](https://arxiv.org/abs/2403.03336) (Joseph Gatto, Madhusudan Basak, Yash Srivastava, Philip Bohlman, Sarah M. Preum, Pre-Print 2024)
 
+- [Theme-driven Keyphrase Extraction to Analyze Social Media Discourse](https://arxiv.org/pdf/2301.11508.pdf) Romano, W., Sharif, O., Basak, M., Gatto, J. and Preum, S., ICWSM 2024
+
 - [Do LLMs Find Human Answers To Fact-Driven Questions Perplexing? A Case Study on Reddit](https://arxiv.org/abs/2404.01147) (Parker Seegmiller, Joseph Gatto, Omar Sharif, Madhusudan Basak, Sarah Masud Preum, REAL-INFO Workshop ICWSM 2024)
 
 - [Chain-of-Thought Embeddings for Stance Detection on Social Media](https://aclanthology.org/2023.findings-emnlp.273) (Gatto et al., EMNLP Findings 2023)
@@ -39,7 +41,7 @@ Joseph Gatto, Parker Seegmiller, Garrett Johnston, and Sarah M. Preum. Journal o
 
 - [ActSafe: Predicting Violations of Medical Temporal Constraints for Medication Adherence](https://arxiv.org/pdf/2301.07051.pdf) Seegmiller, P., Gatto, J., Mamun, A., Ghasemzadeh, H., Cook, D., Stankovic, J. and Preum, S.M., [preprint] (2023)
 
-- [Theme-driven Keyphrase Extraction to Analyze Social Media Discourse](https://arxiv.org/pdf/2301.11508.pdf) Romano, W., Sharif, O., Basak, M., Gatto, J. and Preum, S., 2023
+
 
 
 ### Robotics
