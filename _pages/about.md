@@ -11,7 +11,7 @@ redirect_from:
 ## Publications
 ### NLP 
 
-- [Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments] Omar Sharif, Joseph Gatto,  Madhusudan Basak, Sarah Masud Preum, Accepted at EMNLP 2024
+- Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments: Omar Sharif, Joseph Gatto,  Madhusudan Basak, Sarah Masud Preum, Accepted at EMNLP 2024
 
 - [Large Language Models for Document-Level Event-Argument Data Augmentation for Challenging Role Types](https://arxiv.org/abs/2403.03304) Joseph Gatto, Parker Seegmiller, Omar Sharif, Sarah M. Preum, Pre-Print (2024)
 
