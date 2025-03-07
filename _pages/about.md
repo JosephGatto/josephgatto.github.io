@@ -10,6 +10,8 @@ redirect_from:
 
 ## Publications
 ### NLP 
+- [REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction](https://arxiv.org/pdf/2502.16838) Omar Sharif, Joseph Gatto, Madhusudan Basak, Sarah M. Preum. In Submission (2025)
+
 - [In-Context Learning for Preserving Patient Privacy: A Framework for Synthesizing Realistic Patient Portal Messages](https://arxiv.org/pdf/2411.06549v1) Joseph Gatto, Parker Seegmiller, Timothy Burdick, Sarah M. Preum. Accepted @ Machine Learning for Health (ML4H) Findings. 
 
 - [Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments](https://omar-sharif03.github.io/DiscourseEE/) Omar Sharif, Joseph Gatto,  Madhusudan Basak, Sarah Masud Preum, Accepted at EMNLP 2024
