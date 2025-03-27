@@ -10,6 +10,8 @@ redirect_from:
 
 ## Publications
 ### NLP 
+- [Follow-up Question Generation For Enhanced Patient-Provider Conversations](https://arxiv.org/abs/2503.17509) Joseph Gatto, Parker Seegmiller, Timothy Burdick, Inas S. Khayal, Sarah DeLozier, Sarah M. Preum. In Submission (2025)
+
 - [REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction](https://arxiv.org/pdf/2502.16838) Omar Sharif, Joseph Gatto, Madhusudan Basak, Sarah M. Preum. In Submission (2025)
 
 - [In-Context Learning for Preserving Patient Privacy: A Framework for Synthesizing Realistic Patient Portal Messages](https://arxiv.org/pdf/2411.06549v1) Joseph Gatto, Parker Seegmiller, Timothy Burdick, Sarah M. Preum. Accepted @ Machine Learning for Health (ML4H) Findings. 
