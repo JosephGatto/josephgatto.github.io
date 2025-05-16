@@ -10,15 +10,15 @@ redirect_from:
 
 ## Publications
 ### NLP 
-- [Follow-up Question Generation For Enhanced Patient-Provider Conversations](https://arxiv.org/abs/2503.17509) Joseph Gatto, Parker Seegmiller, Timothy Burdick, Inas S. Khayal, Sarah DeLozier, Sarah M. Preum. In Submission (2025) [Paper Resources](https://huggingface.co/datasets/PortalPal-AI/Followup-Q)
+- [Follow-up Question Generation For Enhanced Patient-Provider Conversations](https://arxiv.org/abs/2503.17509) Joseph Gatto, Parker Seegmiller, Timothy Burdick, Inas S. Khayal, Sarah DeLozier, Sarah M. Preum. Accepted @ ACL Main (2025) [Paper Resources](https://huggingface.co/datasets/PortalPal-AI/Followup-Q)
+
+- [Large Language Models for Document-Level Event-Argument Data Augmentation for Challenging Role Types](https://arxiv.org/abs/2403.03304) Joseph Gatto, Parker Seegmiller, Omar Sharif, Sarah M. Preum, Accepted @ ACL Main (2025)
 
 - [REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction](https://arxiv.org/pdf/2502.16838) Omar Sharif, Joseph Gatto, Madhusudan Basak, Sarah M. Preum. In Submission (2025)
 
 - [In-Context Learning for Preserving Patient Privacy: A Framework for Synthesizing Realistic Patient Portal Messages](https://arxiv.org/pdf/2411.06549v1) Joseph Gatto, Parker Seegmiller, Timothy Burdick, Sarah M. Preum. Accepted @ Machine Learning for Health (ML4H) Findings. 
 
 - [Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments](https://omar-sharif03.github.io/DiscourseEE/) Omar Sharif, Joseph Gatto,  Madhusudan Basak, Sarah Masud Preum, Accepted at EMNLP 2024
-
-- [Large Language Models for Document-Level Event-Argument Data Augmentation for Challenging Role Types](https://arxiv.org/abs/2403.03304) Joseph Gatto, Parker Seegmiller, Omar Sharif, Sarah M. Preum, Pre-Print (2024)
 
 - [Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse](https://arxiv.org/abs/2403.03336) Joseph Gatto, Madhusudan Basak, Yash Srivastava, Philip Bohlman, Sarah M. Preum, Pre-Print (2024)
 
